@@ -1,3 +1,1 @@
-# search-classical-music-yqu4gc
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/search-classical-music-yqu4gc)
+# searchclassicalmusic; A work-in-progress that can ideally be used to search for classical music pieces by entering details, keys, etc..
